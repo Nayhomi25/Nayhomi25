@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naomi Osunde
-- 👀 I’m interested in cyber security and ethical hacking
-- 🌱 I’m currently learning cyber security
+- 👀 I’m interested in web development and Software Engineering.
+- 🌱 I’m currently Frontend Web Development
 - 💞️ I’m looking to collaborate and learn with other interested individuals
 - 📫 How to reach me - leave me a message right here
 
